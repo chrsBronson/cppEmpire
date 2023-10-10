@@ -1,1 +1,1 @@
-This is the begining ofthe great cpp Empire!
+This is the begining of the great cpp Empire!
